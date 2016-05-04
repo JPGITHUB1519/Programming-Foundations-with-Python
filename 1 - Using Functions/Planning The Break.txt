@@ -1,0 +1,6 @@
+Planning The Break
+
+1- Take the time that the user starts using the computer
+2- Have a counter of the hours that the user is using the pc
+3- if the hours is equal to two, the program will open the browser with his favorite music
+4- reset the counter to start counting again

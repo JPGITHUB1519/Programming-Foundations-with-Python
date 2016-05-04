@@ -1,0 +1,8 @@
+
+Rename Troubles
+
+1- If a file does not exits, there will be a error
+showing that the program cannot access to the specified file
+
+2- if we try to rename a file to a name that already 
+exits and the file have the same extension there will  be a error too

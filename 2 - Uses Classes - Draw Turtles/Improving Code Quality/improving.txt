@@ -1,0 +1,5 @@
+1- i can put parameters to the function like :
+
+-> parameters : shape, color, speed
+
+-> do a circle if i want to do a repetitive action

@@ -1,0 +1,6 @@
+1- Open The file
+2- Save the content of the file in a string
+3- Do an array to save the curses World
+4- Look for in the array to search curse Words
+5- If there is a curse word print a message notifying it
+6- else print another message notifying that there are not curse Words
